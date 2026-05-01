@@ -1,3 +1,1 @@
-streamlit
-Pillow
-pandas
+libgl1-mesa-glx
