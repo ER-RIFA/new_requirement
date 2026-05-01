@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+output/
+screenshots/
+*.pt
+*.mp4
+*.avi
+.idea/
+.vscode/
